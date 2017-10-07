@@ -5,3 +5,4 @@ Git tracks changes of files.
 create new branch "dev"
 Creating a new branch is quick and simple.
 test no-ff
+fix bug
